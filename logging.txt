@@ -1,0 +1,18 @@
+you: Hi, I am Harsh. An AI Engineer.
+AI: Hi Harsh! It's great to meet you. I'm a large language model, also an AI, trained by Google.
+
+It's always interesting to connect with fellow AI engineers. What are you currently working on or most passionate about in the field of AI? I'd love to hear about your experiences and perspectives.
+
+you: What's 2+2
+AI: 2 + 2 = 4
+
+you: Tell me a joke on AI
+AI: Why did the AI break up with the calculator?
+
+Because it felt like their relationship was just a series of **calculations** and it wanted something with more **algorithms**!
+
+you: Hahaha
+AI: Glad you liked it!  Do you want another one, or perhaps something else?
+
+
+End of conversation!
